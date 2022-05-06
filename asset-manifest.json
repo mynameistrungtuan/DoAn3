@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DoAn3/static/css/main.78817cc9.css",
+    "main.js": "/DoAn3/static/js/main.59342fd2.js",
+    "static/js/787.a9f0eb40.chunk.js": "/DoAn3/static/js/787.a9f0eb40.chunk.js",
+    "static/media/image.png": "/DoAn3/static/media/image.00fe8f1b8223f926fdfe.png",
+    "index.html": "/DoAn3/index.html",
+    "main.78817cc9.css.map": "/DoAn3/static/css/main.78817cc9.css.map",
+    "main.59342fd2.js.map": "/DoAn3/static/js/main.59342fd2.js.map",
+    "787.a9f0eb40.chunk.js.map": "/DoAn3/static/js/787.a9f0eb40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78817cc9.css",
+    "static/js/main.59342fd2.js"
+  ]
+}
